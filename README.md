@@ -13,6 +13,7 @@ List of Boilerplates to enhance your productivity.
 
 *Boilerplates and templates for React.JS*
 
+- [React CRA](https://github.com/SanjayGoraniya/react-cra-boilerplate) Setup Create React App with React Boilerplate.
 - [React Tailwind](https://github.com/SanjayGoraniya/react-tailwind-boilerplate) A Minimal boilerplate using React and Tailwind CSS.
 
 ## NodeJS

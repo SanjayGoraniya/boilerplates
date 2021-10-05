@@ -13,7 +13,7 @@ List of Boilerplates to enhance your productivity.
 
 *Boilerplates and templates for React.JS*
 
-- [React Tailwind](https://github.com/SanjayGoraniya/react-tailwind) A Minimal boilerplate using React and Tailwind CSS.
+- [React Tailwind](https://github.com/SanjayGoraniya/react-tailwind-boilerplate) A Minimal boilerplate using React and Tailwind CSS.
 
 ## NodeJS
 

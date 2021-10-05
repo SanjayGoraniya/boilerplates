@@ -32,6 +32,6 @@ Your contributions are always welcome!
 
 ## License
 
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+[MIT](LICENSE)
 
 To the extent possible under law, [Sanjay Goraniya](https://sanjaygoraniya.github.io) has waived all copyright and related or neighboring rights to this work.

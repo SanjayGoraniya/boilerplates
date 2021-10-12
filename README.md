@@ -26,6 +26,7 @@ List of Boilerplates to enhance your productivity.
 
 *Boilerplates and templates for Node.JS*
 
+- [JSON Server REST API](https://github.com/SanjayGoraniya/json-server-rest-api-boilerplate) An example of using json-server to mock REST API for development purpose.
 
 ## JavaScript
 

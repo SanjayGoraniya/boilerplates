@@ -14,6 +14,7 @@ List of Boilerplates to enhance your productivity.
 
 - [React CRA](https://github.com/SanjayGoraniya/react-cra-boilerplate) Setup Create React App with React Boilerplate.
 - [React Tailwind](https://github.com/SanjayGoraniya/react-tailwind-boilerplate) A Minimal boilerplate using React and Tailwind CSS.
+- [React PWA TypeScript](https://github.com/SanjayGoraniya/react-cra-pwa-typescript-boilerplate) An progressive web app template for Create React App, using TypeScript.
 
 ## VueJS
 
